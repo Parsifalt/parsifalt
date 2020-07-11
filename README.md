@@ -2,6 +2,8 @@
 
 😸 `My goal for the next four five years is to increase frontend development skills and grow into a Senior Frontend developer.`
 
+![banner](https://github.com/Parsifalt/parsifalt/blob/master/images/jsbanner.jpg)
+
 Experience at: 📢📢📢
 
 - HTML/CSS/SCSS - 4+ years,                     🔵🔵🔵🔵🔵
@@ -17,4 +19,4 @@ Experience at: 📢📢📢
 
 - 👋 I am looking for work in a modern company, which creates hard and cool applications.
 
-- 📫 How to reach me: Parsifaldeveloper@gmail.com or Twitter: [@Parsifaltdev]: https://twitter.com/Parsifaltdev
+- 📫 How to reach me: Parsifaldeveloper@gmail.com or Twitter: [@Parsifaltdev](https://twitter.com/Parsifaltdev)
