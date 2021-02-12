@@ -1,7 +1,5 @@
 ## Hi, I'm Alexander 👋👋👋
 
-😸 `My goal for the next four three years is to increase development skills and grow into a Senior developer.`
-
 
 
 
